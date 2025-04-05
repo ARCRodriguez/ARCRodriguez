@@ -2,8 +2,9 @@
 layout: post
 title: "Desarrollo FullStack: Construyendo Soluciones"
 subtitle: "De ATMs a Sistemas Empresariales - Mi Trayectoria"
-cover-img: /assets/img/codigo-banner.jpg # Reemplaza con imagen de tu proyecto
-thumbnail-img: /assets/img/java-angular.png # Logo de tus tecnologías
+cover-img:
+  /assets/img/codigo-banner.jpg # Reemplaza con imagen de tu proyecto
+  # Logo de tus tecnologías
 share-img: /assets/img/codigo-banner.jpg
 tags: [java, angular, desarrollo, perú]
 author: Alfredo Romel Contreras Rodríguez
