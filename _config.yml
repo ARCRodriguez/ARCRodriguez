@@ -45,20 +45,13 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  - name: email
-    url: "mailto:alfredoromelcrodriguez@gmail.com"
-  - name: facebook
-    url: "https://www.facebook.com/mj.Acros/"
-  - name: github
-    url: "https://github.com/ARCRodriguez"
-  - name: x
-    url: "https://x.com/AlfredoRomel17"
-  - name: whatsapp
-    url: "https://wa.me/51914050065"
-  - name: linkedin
-    url: "https://www.linkedin.com/in/alfredoromelrodriguez/"
-  - name: instagram
-    url: "https://www.instagram.com/alfredoromelrodriguez/"
+  email: "mailto:alfredoromelcrodriguez@gmail.com"
+  facebook: "https://www.facebook.com/mj.Acros/"
+  github: "https://github.com/ARCRodriguez"
+  x: "https://x.com/AlfredoRomel17"
+  whatsapp: "https://wa.me/51914050065"
+  linkedin: "https://www.linkedin.com/in/alfredoromelrodriguez/"
+  instagram: "https://www.instagram.com/alfredoromelrodriguez/"
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  medium: yourname
