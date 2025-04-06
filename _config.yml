@@ -46,12 +46,12 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "mailto:alfredoromelcrodriguez@gmail.com"
-  facebook: "https://www.facebook.com/mj.Acros/"
-  github: "https://github.com/ARCRodriguez"
+  facebook: "mj.Acros/"
+  github: "ARCRodriguez"
   x: "https://x.com/AlfredoRomel17"
-  whatsapp: "https://wa.me/51914050065"
-  linkedin: "https://www.linkedin.com/in/alfredoromelrodriguez/"
-  instagram: "https://www.instagram.com/alfredoromelrodriguez/"
+  whatsapp: "51914050065"
+  linkedin: "alfredoromelrodriguez/"
+  instagram: "alfredoromelrodriguez/"
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  medium: yourname
